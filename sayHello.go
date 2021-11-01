@@ -7,8 +7,14 @@ func Penjumlahan(a, b int) {
 	fmt.Println(hasil)
 }
 
+func Perkalian(a, b int){
+	hasil := a * b
+	fmt.Println(hasil)
+}
+
 func SayHai() {
 	fmt.Println("Hello")
 }
+
 
 
