@@ -7,3 +7,8 @@ func Penjumlahan(a, b int) {
 	fmt.Println(hasil)
 }
 
+func SayHai() {
+	fmt.Println("Hello")
+}
+
+
