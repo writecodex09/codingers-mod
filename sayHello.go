@@ -1,4 +1,4 @@
-package main
+package codingers_mod
 
 import "fmt"
 
